@@ -17,5 +17,5 @@ function setLeastFavoriteCustomer(){
   const leastFavoriteCustomer = "not bob"
 }
 function changeLeastFavoriteCustomer(){
-  var leastFavoriteCustomer = 'bob'
+  var leastFavoriteCustomer = 'bob';
 }
