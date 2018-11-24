@@ -1,3 +1,3 @@
 // Write your solution in this file!
 customerName = 'bob';
-upperCaseCustomerName.upCase; 
+function upperCaseCustomerName(name)
